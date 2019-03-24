@@ -1,4 +1,4 @@
-# gitplant
+# fetch-github
 
 ## Project setup
 ```

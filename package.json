@@ -1,5 +1,5 @@
 {
-  "name": "gitplant",
+  "name": "fetch-github",
   "version": "0.1.0",
   "private": true,
   "scripts": {
